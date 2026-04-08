@@ -58,7 +58,9 @@ Forged Transmits → enviar paquetes con MAC distinta
 5. Matriz de Solución de Errores (Troubleshooting)
 
 Crear una tabla con al menos 3 errores comunes (ej: KVM not available, uBridge 
-permissions, Firewall blocking port 3080) y su solución técnica. 
+permissions, Firewall blocking port 3080) y su solución técnica.
+
+
 
 
 
